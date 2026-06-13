@@ -1,4 +1,3 @@
-```python
 import streamlit as st
 import pandas as pd
 import joblib
@@ -239,4 +238,3 @@ st.markdown("---")
 st.caption(
     "Built using Python, Scikit-Learn, Pandas, Joblib and Streamlit"
 )
-```
